@@ -1,13 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi, Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Suellen 😃️</a>
+    Oi, eu sou a
+    <a href="https://www.linkedin.com/in/suellen-siqueira/">Suellen 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora web Full Stack e aqui compartilho meus conhecimentos 
-    
+     Atualmente sou estudante de programação web (Resilia + Senac), formação intensiva em Desenvolvimento Web Full-Stack com mais de 550 horas de estudos, baseado no desenvolvimento de habilidades soft e tech.
   <div align="center">
  
 ![Suellen GitHub stats](https://github-readme-stats.vercel.app/api?username=susueellen&show_icons=true&theme=radical)
